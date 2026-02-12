@@ -19,9 +19,3 @@
 
 **4. Testing:**
 - (Paste a screenshot of a successful GET request here)
-
-### Test Examples:
-
-#### GET /api/v1/dishes (Success)
-```bash
-curl http://localhost:3000/api/v1/dishes
